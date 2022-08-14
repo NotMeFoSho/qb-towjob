@@ -25,7 +25,7 @@ local Translations = {
         goto_depot = "Take The Vehicle To The Depot",
         vehicle_towed = "Vehicle Towed",
         untowing_vehicle = "Remove The Vehicle",
-        vehicle_takenoff = "Vehicle Taken Off",
+        vehicle_takenoff = "Vehicle Unhooked",
     },
     info = {
         tow = "Place A Car On The Back Of Your Flatbed",
